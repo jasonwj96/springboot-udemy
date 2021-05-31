@@ -25,7 +25,5 @@ P
 ,springboot-servicio-usuarios-commons/pom.xml,f\7\f703c6130188dd7c15d7a2354960ae72f02cb58c
 ¥
 uspringboot-servicio-oauth/src/main/java/com/formacionbdi/springboot/app/oauth/SpringbootServicioOauthApplication.java,d\b\db5233339b24b6333339c63e7fb6eb2d288207df
-Q
-!springboot-servicio-oauth/pom.xml,f\d\fd1740500465a155fbb20221ed09d9a7a2a62913
 g
 7springboot-servicio-oauth/springboot-servicio-oauth.iml,6\2\62be001874fade3b85b9998f4561e8d184b044e9
