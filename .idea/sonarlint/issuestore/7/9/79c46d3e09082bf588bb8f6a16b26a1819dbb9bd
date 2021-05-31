@@ -1,0 +1,15 @@
+
+R
+java:S2629!"7Use the built-in formatting to construct this argument.(ÍÏçšüÿÿÿÿ
+R
+java:S2629+"7Use the built-in formatting to construct this argument.(òØÂ„ıÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(‡ïŒ
+\
+java:S3457!"AFormat specifiers should be used instead of string concatenation.(ÍÏçšüÿÿÿÿ
+<
+java:S3864("!Remove this use of "Stream.peek".(éĞªñúÿÿÿÿ
+\
+java:S3457("AFormat specifiers should be used instead of string concatenation.(éĞªñúÿÿÿÿ
+\
+java:S3457+"AFormat specifiers should be used instead of string concatenation.(òØÂ„ıÿÿÿÿ

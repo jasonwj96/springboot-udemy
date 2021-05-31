@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootServicioUsuariosApplication<springboot-servicio-usuarios>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.formacionbdi.springboot.app.usuarios.SpringbootServicioUsuariosApplication",
+            "projectName": "springboot-servicio-usuarios",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootServicioEurekaServerApplication<springboot-servicio-eureka-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.formacionbdi.springboot.app.eureka.SpringbootServicioEurekaServerApplication",
+            "projectName": "springboot-servicio-eureka-server",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootServicioZuulServerApplication<springboot-servicio-zuul-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.formacionbdi.springboot.app.zuul.SpringbootServicioZuulServerApplication",
+            "projectName": "springboot-servicio-zuul-server",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootServicioConfigServerApplication<springboot-servicio-config-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.formacionbdi.springboot.app.config.SpringbootServicioConfigServerApplication",
+            "projectName": "springboot-servicio-config-server",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootServicioOauthApplication<springboot-servicio-oauth>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.formacionbdi.springboot.app.oauth.SpringbootServicioOauthApplication",
+            "projectName": "springboot-servicio-oauth",
+            "args": ""
+        }
+    ]
+}

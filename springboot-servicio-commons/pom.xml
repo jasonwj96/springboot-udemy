@@ -9,8 +9,8 @@
     <version>2.1.5.RELEASE</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.formacionbdi.springboot.app</groupId>
-  <artifactId>commons</artifactId>
+  <groupId>com.formacionbdi.springboot.app.commons</groupId>
+  <artifactId>springboot-servicio-commons</artifactId>
   <version>1.0.0</version>
   <name>springboot-servicio-commons</name>
   <description>Demo project for Spring Boot</description>
